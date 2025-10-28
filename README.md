@@ -15,8 +15,8 @@
 
 ## Установка
 
-git clone <https://github.com/silly-person-on-the-cheese-planet/Todo>
+git clone <https://github.com/SXQUEEN/Todo>
 
 ## Автор
 
-* [**Тараканов Павел 314А**](https://github.com/silly-person-on-the-cheese-planet)
+* [**Машкова Маргарита 314А**](https://github.com/SXQUEEN)
